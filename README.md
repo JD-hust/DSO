@@ -2,6 +2,8 @@
 
 > by gong 
 
+> add comments by myself
+
 ---
 # DSO: Direct Sparse **Odometry**
 
